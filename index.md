@@ -1,9 +1,9 @@
 ---
-title: "HAbiter dans la Sécurité et la Dignité"
+title: "HAbiter dans la Dignité et la Sécurité"
 order: 1
 in_menu: true
 ---
-# HAbiter dans la Sécurité et la Dignité
+# HAbiter dans la Dignité et la Sécurité
 
 L'entreprise propose des interventions et des accompagnements adaptés, proportionnés suivant aux besoins des personnes. 
 
