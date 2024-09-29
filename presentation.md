@@ -3,15 +3,11 @@ title: "Présentation"
 order: 0
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+# HAbiter en DIgnité et en Sécurité  à domicile #
 
-## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Conjugue deux activités complémentaires : 
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif** 
+- une entreprise proposant : des interventions, accompagnements à destination des personnes en situation d'accumulation et/ou d'incurie, ainsi que des formations.
+
+- une thèse portant sur les modalités d'accompagnement et de gestion des situations d'accumulation et/ou incurie dans les Hauts de France. 
