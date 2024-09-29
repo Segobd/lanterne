@@ -29,3 +29,5 @@ L'accompagnement vise:
 # Les interventions 
 
 Les interventions sont ponctuelles, vise un besoin spécifique. 
+
+contact: segolene.boudraa@gmail.com 
