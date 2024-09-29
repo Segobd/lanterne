@@ -5,7 +5,7 @@ in_menu: true
 ---
 # HAbiter dans la Dignité et la Sécurité
 
-L'entreprise propose des interventions et des accompagnements adaptés, proportionnés suivant aux besoins des personnes. 
+Propose des interventions et des accompagnements adaptés, proportionnés suivant aux besoins des personnes. 
 
 
 
