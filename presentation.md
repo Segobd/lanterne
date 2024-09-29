@@ -3,6 +3,17 @@ title: "Présentation"
 order: 0
 in_menu: true
 ---
+# L'engagement
+
+Expérience de 5 ans dans l'accompagnement à domicile de personne en situation d'incurie/accumulation ou syndrome de Diogène. 
+
+L'objectif 
+Améliorer les connaissances sur le syndrome de Diogène. 
+Identification des bonnes pratiques. 
+Proposer des solutions d'intervention et d'accompagnement adaptées.
+Diffuser et partager les connaissances et bonnes pratiques établies.
+
+
 # HAbiter en DIgnité et en Sécurité  à domicile 
 
 
