@@ -1,5 +1,5 @@
 ---
-title: "HAbiter dans la Dignité et la Sécurité"
+title: "Les services"
 order: 1
 in_menu: true
 ---
